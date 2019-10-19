@@ -6,8 +6,9 @@ To enhance my educational and professional skills by refining my knowledge to th
 
 **Academia**
 
-| Course | Institute | Year of Passing | CGPA |
-| ------ | --------- | --------------- | ---- |
+| Course | Institute    | Year of Passing | CGPA |
+| ------ | ------------ | --------------- | ---- |
 | B.E(CSE) | Velammal College Of Engineering and Technology | 2020 | 6.7 |
+| Higher Secondary School | Mahatma Montessori Matriculation School, Madurai | 2016 | 7.85
 
 
