@@ -21,8 +21,7 @@ To enhance my educational and professional skills by refining my knowledge to th
 - HTML
 - Python(Basics)
 
-
-** Projects **
+*Projects*
 
 1. *Library Management System*
 
