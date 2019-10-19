@@ -7,7 +7,6 @@ To enhance my educational and professional skills by refining my knowledge to th
 **Academia**
 
 | Course | Institute | Year of Passing | CGPA |
-
-|--------|-----------|-----------------|------|
+| ------ | --------- | --------------- | ---- |
 
 
