@@ -14,7 +14,7 @@ To enhance my educational and professional skills by refining my knowledge to th
 
 ### Technical Skills
 
-*Languages Known*
+> Languages Known
 
 - C
 - C#
