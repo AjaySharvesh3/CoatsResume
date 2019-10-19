@@ -21,7 +21,7 @@ To enhance my educational and professional skills by refining my knowledge to th
 - HTML
 - Python(Basics)
 
-*Projects*
+> Projects
 
 1. *Library Management System*
 
@@ -34,12 +34,12 @@ To enhance my educational and professional skills by refining my knowledge to th
 
 ### Co-Curricular Activities
 
-*Paper Presentation*
+> Paper Presentation
 
 - Presented paper entitled **Solar Power**
 on 28.March.2017
 
-*Archivement*
+> Archivement
 
 - First prize in **volleyball** , **Tennikoit(doubles)** , **Disc-Throw** during school days.
 
