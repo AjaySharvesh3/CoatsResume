@@ -14,7 +14,7 @@ To enhance my educational and professional skills by refining my knowledge to th
 
 **Technical Skills**
 
-* Languages Known *
+*Languages Known*
 
 - C
 - C#
@@ -24,7 +24,7 @@ To enhance my educational and professional skills by refining my knowledge to th
 
 ** Projects **
 
-1. * Library Management System *
+1. *Library Management System*
 
    - FrontEnd-C#.Net
    - Database-SQL
