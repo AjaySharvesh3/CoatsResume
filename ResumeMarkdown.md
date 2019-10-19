@@ -32,11 +32,11 @@ To enhance my educational and professional skills by refining my knowledge to th
  
    - using HTML
 
-* * Co-Curricular Activities * *
+**Co-Curricular Activities**
 
 *Paper Presentation*
 
-Presented paper entitled * * Solar Power * *
+Presented paper entitled **Solar Power**
 on 28.March.2017.
 
 
