@@ -14,6 +14,19 @@ To enhance my educational and professional skills by refining my knowledge to th
 
 **Technical Skills**
 
-*Language Known*
+* Languages Known *
+
+- C
+- C#
+- HTML
+- Python(Basics)
+
+
+** Projects **
+
+1. * Library Management System *
+
+   - FrontEnd-C#.Net
+   - Database-SQL
 
 
