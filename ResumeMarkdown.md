@@ -36,9 +36,13 @@ To enhance my educational and professional skills by refining my knowledge to th
 
 *Paper Presentation*
 
-Presented paper entitled **Solar Power**
-on 28.March.2017.
+- Presented paper entitled **Solar Power**
+on 28.March.2017
 
+*Archivement*
 
+- First prize in volleyball, Tennikoit(doubles), Disc-Throw during school days.
+
+- Been an *Interact Club* member in rotary club of madurai west for the year 2014 to 2015
 
 
