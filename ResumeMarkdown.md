@@ -41,8 +41,10 @@ on 28.March.2017
 
 *Archivement*
 
-- First prize in volleyball, Tennikoit(doubles), Disc-Throw during school days.
+- First prize in **volleyball** , **Tennikoit(doubles)** , **Disc-Throw** during school days.
 
-- Been an *Interact Club* member in rotary club of madurai west for the year 2014 to 2015
+- Been an **Interact Club** member in rotary club of madurai west for the year 2014 to 2015.
+
+**Certification**
 
 
