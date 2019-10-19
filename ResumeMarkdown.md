@@ -8,5 +8,6 @@ To enhance my educational and professional skills by refining my knowledge to th
 
 | Course | Institute | Year of Passing | CGPA |
 | ------ | --------- | --------------- | ---- |
+| B.E(CSE) | Velammal College Of Engineering and Technology | 2020 | 6.7 |
 
 
