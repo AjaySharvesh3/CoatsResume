@@ -47,11 +47,14 @@ on 28.March.2017
 
 ### Certification
 
-- **Python(Basics) course in Venus Institution Madurai during April to May 2019.
+- **Python(Basics)** course in Venus Institution Madurai during April to May 2019.
 - **Diploma in MS-Office** in Computer Software College (CSC) during 21.June.2010 to 21.August.2010.
 - **Diploma in Graphics and Animation** in Computer Software College (CSC) during 05.May.2009 to 05.June.2009.
 
-###Personal Details
+### Personal Details
+
+- Father Name   : RamaMoorthy A.
+- Date of birth : 20.March.1999.
 
 
 
