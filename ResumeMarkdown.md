@@ -1,10 +1,10 @@
 # SOBIKA R
 
-###### Career Objective
+### Career Objective
 
 To enhance my educational and professional skills by refining my knowledge to the growth company and my skills.
 
-###### Academia
+### Academia
 
 | Course | Institute    | Year of Passing | CGPA |
 | :------ | :------------ | :--------------- | :---- |
@@ -12,7 +12,7 @@ To enhance my educational and professional skills by refining my knowledge to th
 | Higher Secondary School | Mahatma Montessori Matriculation School, Madurai | 2016 | 7.85
 | SSLC | Mahatma Montessori CBSE School, Madurai | 2014 | 82.0 |
 
-###### Technical Skills
+### Technical Skills
 
 *Languages Known*
 
@@ -32,7 +32,7 @@ To enhance my educational and professional skills by refining my knowledge to th
  
    - using HTML
 
-###### Co-Curricular Activities
+### Co-Curricular Activities
 
 *Paper Presentation*
 
@@ -45,6 +45,6 @@ on 28.March.2017
 
 - Been an **Interact Club** member in rotary club of madurai west for the year 2014 to 2015.
 
-###### Certification
+### Certification
 
 
