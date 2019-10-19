@@ -53,8 +53,13 @@ on 28.March.2017
 
 ### Personal Details
 
-- Father Name   : RamaMoorthy A.
-- Date of birth : 20.March.1999.
+- Father Name         : RamaMoorthy A.
+- Date of birth.      : 20.March.1999.
+- Linguistics Ability : English, Tamil.
+- Hobbies             : Playing Carrom.
+- Strength            : Good communication and presentation skills.
+- Gmail               : shobika.moorthy@gmail.com
+- Contact Number      : 8124436532, 9788734626.
 
 
 
